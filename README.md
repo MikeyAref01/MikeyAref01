@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Projects: </h2>
 
-- <b> Section 1 </b>
+- <b> Project 1 (on going) </b>
 
-  - [Active Directory Home Lab](...)
-  - [Active Directory Home Lab](...)
-- <b> Section 2 </b>
-  - [Active Directory Home Lab](...)
+  - [[Email-Leak-Search](https://github.com/MikeyAref01/Email-Leak-Search)]
+
+- <b> Peoject 2 (on going) </b>
+  - [[NBA-HOOP]](https://github.com/MikeyAref01/NBA-HOOP)
 
 <h2>📺 Certifcations: </h2>
 
