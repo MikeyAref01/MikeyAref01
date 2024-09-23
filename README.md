@@ -6,7 +6,7 @@
 
   - [[Email-Leak-Search](https://github.com/MikeyAref01/Email-Leak-Search)]
 
-- <b> Peoject 2 (on going) </b>
+- <b> Project 2 (on going) </b>
   - [[NBA-HOOP]](https://github.com/MikeyAref01/NBA-HOOP)
 
 <h2>📺 Certifcations: </h2>
